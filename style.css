@@ -1,0 +1,13 @@
+.header{
+  text-align: center;
+}
+
+.slider{
+  height: 360px;
+  width: 700px;
+  margin: 0 auto;
+}
+.slider img{
+  height: 100%;
+  width: 100%;
+}
